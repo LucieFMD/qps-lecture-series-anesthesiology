@@ -1,0 +1,9 @@
+# editors
+/.vscode
+
+# OS litter
+.DS_Store
+Desktop.ini
+._*
+Thumbs.db
+.Trashes
